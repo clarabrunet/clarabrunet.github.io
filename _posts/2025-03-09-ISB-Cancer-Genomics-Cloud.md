@@ -52,3 +52,8 @@ For researchers who prefer a more visual and interactive approach, ISB-CGC provi
 Cloud computing is transforming cancer research by enabling scalable and collaborative data analysis. ISB-CGC’s data as a service model provides researchers with seamless access to genomic, clinical, and imaging data. As cloud adoption grows in initiatives like TOPMed and NIH’s Precision Medicine Initiative, interoperability between platforms will be crucial.  
 
 Looking ahead, ISB-CGC will continue to expand its capabilities in AI-driven analysis, multi-omics integration, and cross-platform data sharing, driving innovation in precision medicine and accelerating discoveries for better cancer treatments.  
+
+
+### References  
+
+[^1]: Reynolds, S. M., et al. (2017). The ISB Cancer Genomics Cloud: A Flexible Cloud-Based Platform for Cancer Genomics Research. *Cancer Research, 77*(21), e7–e10. [https://doi.org/10.1158/0008-5472.CAN-17-0617](https://doi.org/10.1158/0008-5472.CAN-17-0617)
