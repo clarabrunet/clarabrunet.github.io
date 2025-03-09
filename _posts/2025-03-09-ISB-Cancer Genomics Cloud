@@ -6,7 +6,7 @@ author: "Your Name"
 categories: cloud genomics
 ---
 
-![ISB-CGC Cancer Genomics Cloud](cancer-genomics-cloud.jpg)
+![ISB-CGC Cancer Genomics Cloud](logo.png)
 
 ## ISB Cancer Genomics Cloud: Revolutionizing Cancer Research with Cloud Computing  
 
@@ -40,7 +40,7 @@ For researchers who prefer a more visual and interactive approach, ISB-CGC provi
 - Integrated Tools and Documentation: Open-source code, tutorials, and seamless integration with Google Cloud services like BigQuery.  
 - Automatic Scaling and Load Balancing: Ensures efficient performance for handling large-scale datasets.  
 
-![ISB-CGC System Architecture](isb-cgc-architecture.png)
+![ISB-CGC System Architecture](architecture.png)
 
 # The Future of Cloud Computing in Cancer Genomics
 Cloud computing is transforming cancer research by enabling scalable and collaborative data analysis. ISB-CGC’s data as a service model provides researchers with seamless access to genomic, clinical, and imaging data. As cloud adoption grows in initiatives like TOPMed and NIH’s Precision Medicine Initiative, interoperability between platforms will be crucial.  
