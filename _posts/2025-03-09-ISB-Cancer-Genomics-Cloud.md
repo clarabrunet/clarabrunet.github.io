@@ -4,6 +4,8 @@ title: "ISB Cancer Genomics Cloud: Revolutionizing Cancer Research with Cloud Co
 date: 2025-03-09
 author: "Your Name"
 categories: cloud genomics
+excerpt: "Cloud computing is transforming cancer research by enabling scalable and collaborative data analysis. ISB-CGC provides researchers with seamless access to genomic, clinical, and imaging data, accelerating discoveries in precision medicine."
+
 ---
 
 <p align="center">
@@ -13,6 +15,8 @@ categories: cloud genomics
 
 
 Cancer research has entered the era of big data, generating massive genomic datasets that require powerful computational resources. Traditional local servers struggle to handle this scale, leading to the rise of Cloud Computing solutions.
+
+<!-- more -->
 
 The ISB Cancer Genomics Cloud (ISB-CGC), developed by the Institute for Systems Biology (ISB) in collaboration with Google Cloud and CSRA Inc., is one of three Cancer Genomics Cloud (CGC) Pilots funded by the National Cancer Institute (NCI). It provides researchers with secure, scalable, and flexible access to The Cancer Genome Atlas (TCGA), TARGET, and other major cancer datasets, enabling advanced genomic analysis without infrastructure limitations.
 
