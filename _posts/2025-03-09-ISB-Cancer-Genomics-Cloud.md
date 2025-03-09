@@ -6,7 +6,10 @@ author: "Your Name"
 categories: cloud genomics
 ---
 
-![ISB-CGC Cancer Genomics Cloud](/images/logo.jpg)
+<p align="center">
+  <img src="/images/logo.png" alt="ISB-CGC Cancer Genomics Cloud" width="60%">
+</p>
+
 
 
 Cancer research has entered the era of big data, generating massive genomic datasets that require powerful computational resources. Traditional local servers struggle to handle this scale, leading to the rise of Cloud Computing solutions.  
