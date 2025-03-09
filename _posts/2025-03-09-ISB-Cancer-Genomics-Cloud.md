@@ -56,4 +56,4 @@ Looking ahead, ISB-CGC will continue to expand its capabilities in AI-driven ana
 
 ### References  
 
-Reynolds, S. M., Miller, M., Lee, P., Leinonen, K., Paquette, S. M., Rodebaugh, Z., Hahn, A., Gibbs, D. L., Slagel, J., Longabaugh, W. J., Dhankani, V., Reyes, M., Pihl, T., Backus, M., Bookman, M., Deflaux, N., Bingham, J., Pot, D., & Shmulevich, I. (2017). The ISB Cancer Genomics Cloud: A Flexible Cloud-Based Platform for Cancer Genomics Research. Cancer research, 77(21), e7–e10. https://doi.org/10.1158/0008-5472.CAN-17-0617
+**1.** Reynolds, S. M., Miller, M., Lee, P., Leinonen, K., Paquette, S. M., Rodebaugh, Z., Hahn, A., Gibbs, D. L., Slagel, J., Longabaugh, W. J., Dhankani, V., Reyes, M., Pihl, T., Backus, M., Bookman, M., Deflaux, N., Bingham, J., Pot, D., & Shmulevich, I. (2017). The ISB Cancer Genomics Cloud: A Flexible Cloud-Based Platform for Cancer Genomics Research. Cancer research, 77(21), e7–e10. https://doi.org/10.1158/0008-5472.CAN-17-0617
