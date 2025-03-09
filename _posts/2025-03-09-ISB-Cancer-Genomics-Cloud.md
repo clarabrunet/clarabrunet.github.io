@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ISB Cancer Genomics Cloud: Revolutionizing Cancer Research with Cloud Computing"
-date: 2024-03-09
+date: 2025-03-09
 author: "Your Name"
 categories: cloud genomics
 ---
